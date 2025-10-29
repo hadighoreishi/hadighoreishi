@@ -9,7 +9,6 @@ I am open to opportunities in Canada’s finance/data sector.
 ---
 
 ## 🌟 About Me
-- 📍 **Location:** Canada
 - 💼 **Certificate:** IBM Data Analyst Professional Certificate
 - 🧠 **Interests:** financial analysis, time-series analysis, algorithmic and quantitative trading
 
