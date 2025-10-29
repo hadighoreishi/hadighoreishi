@@ -1,30 +1,26 @@
 <!-- Profile README for hadighoreishi -->
-<h1 align="center">Hi, I'm Hadi</h1>
+# 👋 Hello! I’m Hadi Ghoreishi
 
-<p align="center">
-  I’m a data analyst focused on finance. I like clear questions, tidy data, and dashboards that explain themselves.
-</p>
-
-<p align="center">
-  <a href="https://huggingface.co/spaces/HADIGHOREISHI/tsx-sector-rotation">
-    <img alt="Featured App" src="https://img.shields.io/badge/Featured_App-TSX_Sector_Rotation-success?logo=huggingface" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/hadighoreishi/tsx-sector-rotation-dashboard">
-    <img alt="Repo" src="https://img.shields.io/badge/Code-GitHub-black?logo=github" />
-  </a>
-</p>
+I am a Data Analyst focused on financial market data.
+I find patterns in forex, crypto and equities using strong EDA.
+I build predictive, explainable insights and dashboards for real decisions.
+I am open to opportunities in Canada’s finance/data sector.
 
 ---
 
-### About
-- I work with market data—returns, drawdowns, correlations—and turn it into simple, readable visuals.  
-- My style: small, well-named functions, reproducible notebooks, and one-click apps for non-technical users.  
-- Interests: sector rotation, risk signals, portfolio reporting.
+## 🌟 About Me
+- 📍 **Location:** Canada
+- 💼 **Certificate:** IBM Data Analyst Professional Certificate
+- 🧠 **Interests:** financial analysis, time-series analysis, algorithmic and quantitative trading
 
-### Tools
-**Python** (pandas, numpy, plotly, streamlit, statsmodels) · **SQL** · **Tableau** ·  
-**Git/GitHub** · **Hugging Face Spaces** · **yfinance** · **Parquet/Arrow** · **Excel**
+
+
+## 🧰 Skills & Technologies
+- **Languages:** Python, SQL, MQL4, MQL5, Pine Script  
+- **Python Stack:** pandas, NumPy, Statsmodels, Scikit-learn, Plotly, Matplotlib  
+- **Visualization & Reporting:** Power BI, Tableau, Streamlit, Excel  
+- **Data & Storage:** CSV, Parquet, historical market data APIs (crypto/forex/equities)  
+- **Workflow / Tools:** Git & GitHub, Jupyter Notebooks, reproducible environments  
 
 ---
 
@@ -35,12 +31,9 @@ Momentum (6/12-month), rolling volatility, drawdowns, correlations, and a straig
 - Live app: https://huggingface.co/spaces/HADIGHOREISHI/tsx-sector-rotation  
 - Code: https://github.com/hadighoreishi/tsx-sector-rotation-dashboard
 
----
-
-## What’s next
-- A HoloViz/Panel dashboard on dividends vs. drawdowns  
-- A short SQL case study on TSX fundamentals  
-- A small Tableau view of rolling returns
+### Waze Churn EDA (Course Case Study)  
+Performed end-to-end exploratory data analysis of user churn for a driving app, identified behaviour patterns correlated with churn and delivered actionable recommendations.  
+- **Code & notebook:** https://github.com/hadighoreishi/waze-churn-eda  
 
 ---
 
